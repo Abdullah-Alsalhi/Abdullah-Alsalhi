@@ -143,5 +143,5 @@ I'm **Abdullah** from ***Saudi Arabia*** 🇸🇦. I started learning **DevOps**
 
 ### contact me 👇:
 
-<p align="left"><ahref="www.linkedin.com/in/abdullahalsalhi"><imgsrc="https://cdn-icons-png.flaticon.com/512/174/174857.png"alt="linkedin"width="40"height="40"/></a></p>
+<p align="left"><a href="www.linkedin.com/in/abdullahalsalhi"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"alt="linkedin"width="40"height="40"/></a></p>
 
