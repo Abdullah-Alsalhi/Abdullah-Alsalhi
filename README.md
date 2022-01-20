@@ -127,6 +127,14 @@ I'm **Abdullah** from ***Saudi Arabia*** 🇸🇦. I started learning **DevOps**
           height="40"
         />
       </a>
+      <a href="https://www.ansible.com/" >
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png"
+          alt="Ansible"
+          width="40"
+          height="40"
+        />
+      </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
