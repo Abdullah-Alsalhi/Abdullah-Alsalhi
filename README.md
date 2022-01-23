@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Abdullah** from ***Saudi Arabia*** 🇸🇦. I started learning **DevOps** 🔥 first and now I'm foucsing on web, Development and Operation. I Love JavaScript 🥰
+I'm **Abdullah** from ***Saudi Arabia*** 🇸🇦. I started learning **DevOps** 🔥 first and now I'm foucsing on web, Development and Operation.
 
 
 ### Languages 📚 and Tools ⚒️:
